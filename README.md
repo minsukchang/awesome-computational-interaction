@@ -1,5 +1,5 @@
 # Awesome Computational Interaction [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-This is a repo for curating resources on computational interaction. We have a newly establihsed [subcommitee at CHI 2021].(https://chi2021.acm.org/for-authors/presenting/papers/selecting-a-subcommittee#Computational-Interaction) 
+This is a repo for curating resources on computational interaction. We have a newly establihsed [subcommitee at CHI 2021](https://chi2021.acm.org/for-authors/presenting/papers/selecting-a-subcommittee#Computational-Interaction).
 
 ## Contributing
 Feel free to pull request
