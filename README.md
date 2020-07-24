@@ -2,7 +2,7 @@
 This is a repo for curating resources on computational interaction. There is a newly establihsed [subcommitee at CHI 2021](https://chi2021.acm.org/for-authors/presenting/papers/selecting-a-subcommittee#Computational-Interaction).
 
 ## Contributing
-Feel free to pull request
+Feel free to make pull requests. Looking for maintainers and contributors!
 
 
 ## Books
